@@ -1,4 +1,4 @@
-# ubuntu-s3fs ![alt text](https://github.com/dpizzuto/ubuntu-s3fs/raw/master/src/image\aws-s3-logo.png")
+# ubuntu-s3fs ![alt text](https://github.com/dpizzuto/ubuntu-s3fs/blob/master/image/aws-s3-logo.png")
 
 The Dockerfile provides a way to create a ubuntu-based docker container with a S3 endpoint mounted as a filesystem
 
